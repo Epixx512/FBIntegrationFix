@@ -1,0 +1,9 @@
+Package: com.podpod123.fbintegrationfix
+Name: FBIntegrationFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A fix for iOS's Facebook system integration
+Maintainer: Pod
+Author: Pod
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0)
