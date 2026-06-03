@@ -7,3 +7,4 @@ Maintainer: Pod
 Author: Pod
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
+Depiction: http://repo.podpod123.com/depictions/?p=com.podpod123.fbintegrationfix
