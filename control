@@ -6,4 +6,4 @@ Description: A fix for iOS's Facebook system integration
 Maintainer: Pod
 Author: Pod
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
