@@ -1,6 +1,6 @@
 Package: com.podpod123.fbintegrationfix
 Name: FBIntegrationFix
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: A fix for iOS's Facebook system integration
 Maintainer: Pod
