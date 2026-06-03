@@ -11,6 +11,7 @@
         <key>Executables</key>
         <array>
             <string>accountsd</string>
+	    <string>SocialUIService</string>
         </array>
     </dict>
 </dict>

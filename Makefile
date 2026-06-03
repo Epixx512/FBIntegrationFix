@@ -1,5 +1,5 @@
 TARGET := iphone:clang:7.0:6.0
-INSTALL_TARGET_PROCESSES = accountsd SpringBoard
+INSTALL_TARGET_PROCESSES = accountsd SocialUIService SpringBoard
 
 include $(THEOS)/makefiles/common.mk
 
