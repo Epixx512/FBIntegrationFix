@@ -12,6 +12,7 @@
         <array>
             <string>accountsd</string>
 	    <string>SocialUIService</string>
+	    <string>sociald</string>
         </array>
     </dict>
 </dict>
